@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "adam_100_da_best_quantized.xmodel",
+    "kernel": [
+        "subgraph_quant_conv2d"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
