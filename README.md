@@ -141,3 +141,6 @@ csi5110-project/
 ├── requirements.txt
 └── README.md
 ```
+---
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
